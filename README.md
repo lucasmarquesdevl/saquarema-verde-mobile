@@ -38,7 +38,7 @@ O aplicativo permite que os usuários visualizem os eventos, trilhas, praias e p
 ## 📁 Estrutura de Pastas para os Outros Alunos (Entrega da Faculdade)
 - **Requisitos:** (Adicionar PDF de Requisitos aqui)
 - **Apresentação:** (Adicionar slides aqui)
-- **Protótipos:** (Adicionar links do Figma ou imagens aqui)
+- **Protótipos:** [Ver Telas e Protótipos (PROTOTIPOS.md)](./PROTOTIPOS.md)
 
 ## 👤 Autor
 - **Lucas Trindade Marques** e Equipe.
