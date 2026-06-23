@@ -31,7 +31,7 @@ export default function EventoDetailScreen({ route }) {
   const [videoLoading, setVideoLoading] = useState(false);
   const videoRef = useRef(null);
 
-  const videoUrl = evento.video_url ? `${BASE_URL}${evento.video_url}` : null;
+  const videoUrl = evento.video_url ? `${BASE_URL}/${evento.video_url}` : null;
 
   const abrirVideo = () => {
     setVideoModalVisible(true);
