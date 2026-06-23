@@ -36,7 +36,7 @@ O aplicativo permite que os usuários visualizem os eventos, trilhas, praias e p
 6. Abra o aplicativo da câmera no seu celular e escaneie o **QR Code** que aparecer na tela do terminal ou na aba do navegador.
 
 ## 📁 Estrutura de Pastas para os Outros Alunos (Entrega da Faculdade)
-- **Requisitos:** (Adicionar PDF de Requisitos aqui)
+- **Requisitos:** [Documento de Requisitos Mobile (Requisitos_Mobile.pdf)](./Requisitos_Mobile.pdf)
 - **Apresentação:** (Adicionar slides aqui)
 - **Protótipos:** [Ver Telas e Protótipos (PROTOTIPOS.md)](./PROTOTIPOS.md)
 
