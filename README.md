@@ -40,5 +40,8 @@ O aplicativo permite que os usuários visualizem os eventos, trilhas, praias e p
 - **Apresentação:** [Slides da Apresentação Mobile (Apresentacao_Mobile.pptx)](./Apresentacao_Mobile.pptx)
 - **Protótipos:** [Ver Telas e Protótipos (PROTOTIPOS.md)](./PROTOTIPOS.md)
 
-## 👤 Autor
-- **Lucas Trindade Marques** e Equipe.
+## 👤 Autores
+- **Lucas Trindade Marques**
+- - **Claudio Pereira da Costa**
+  - - **Claudia Trindade Marques**
+    - - **Thiago Felipe Lima Israel**
