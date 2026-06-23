@@ -18,7 +18,7 @@ Interface restrita para que os administradores do sistema possam se autenticar d
 * **Campos:** Usuário e Senha.
 * **Navegação:** Opção de retornar para a tela de eventos pública.
 
-![Tela de Login](./assets/tela_login.jpg)
+![Tela de Login](./assets/tela_painel.jpg)
 
 ---
 
@@ -28,4 +28,4 @@ Formulário exclusivo para criadores de conteúdo e administradores cadastrarem 
 * **Categorias (Tags):** Evento, Praia, Trilha e Ponto Turístico.
 * **Navegação Inferior:** Alternância rápida entre o início e o painel de configurações.
 
-![Painel Admin](./assets/tela_painel.jpg)
+![Painel Admin](./assets/tela_login.jpg)
