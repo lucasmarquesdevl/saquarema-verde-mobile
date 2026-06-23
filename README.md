@@ -37,7 +37,7 @@ O aplicativo permite que os usuários visualizem os eventos, trilhas, praias e p
 
 ## 📁 Estrutura de Pastas para os Outros Alunos (Entrega da Faculdade)
 - **Requisitos:** [Documento de Requisitos Mobile (Requisitos_Mobile.pdf)](./Requisitos_Mobile.pdf)
-- **Apresentação:** (Adicionar slides aqui)
+- **Apresentação:** [Slides da Apresentação Mobile (Apresentacao_Mobile.pptx)](./Apresentacao_Mobile.pptx)
 - **Protótipos:** [Ver Telas e Protótipos (PROTOTIPOS.md)](./PROTOTIPOS.md)
 
 ## 👤 Autor
