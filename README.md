@@ -41,7 +41,7 @@ O aplicativo permite que os usuários visualizem os eventos, trilhas, praias e p
 - **Protótipos:** [Ver Telas e Protótipos (PROTOTIPOS.md)](./PROTOTIPOS.md)
 
 ## 👤 Autores
-- **Lucas Trindade Marques**
+- -  **Lucas Trindade Marques**
 - - **Claudio Pereira da Costa**
-  - - **Claudia Trindade Marques**
-    - - **Thiago Felipe Lima Israel**
+- - **Claudia Trindade Marques**
+- - **Thiago Felipe Lima Israel**
